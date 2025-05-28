@@ -1,0 +1,179 @@
+Back
+ 
+Inställningar
+Allmänt
+Konteringsdimensioner
+ 
+Granskningsnivåer – Reseräkningar
+ 
+Granskningsnivåer – Tidrapporter
+ 
+Granskningsnivåer – Frånvaroansökningar
+Granskningsnivåer – Lönerevision
+Granskningsnivåer – Nyanställningar
+Nyanställningar – Flik Allmänt
+Nyanställningar – Flik Granskningsvy
+Fakturering
+ 
+Externa länkar
+Påminnelser
+Instruktionsfilmer
+Översättning
+Res
+Reseräkningar
+ 
+Resor – Generellt
+ 
+Resor – Logi
+Resor – Kost
+Resor – Traktamentsregler
+ 
+Resor – Utrikestraktamenten
+Resor – Restidsregelverk
+ 
+Utlägg och representation – Generellt
+Utlägg och representation – Koder
+ 
+Utlägg och representation – Kontokort
+ 
+Bilresor – Generellt
+Bilresor - Tillägg
+Bilresor – Milgränsmallar
+Bilresor – Fordonstyper
+ 
+Registreringsregler
+Tid och Bemanning
+Bemanning
+ 
+Tidrapporter
+Tidgrupper
+ 
+Scheman — Dagscheman
+Scheman — Publika scheman
+ 
+Publika scheman – Flik Översikt
+ 
+Scheman — Avvikelsedagar
+Scheman — Rastregler
+Tidregelverk — OB-regelverk
+ 
+Tidregelverk — Övertidsregelverk
+ 
+Tidregelverk — Beredskapsregelverk
+ 
+Tidregelverk — Arbetstidsregler
+Tidregelverk — Tidkodsavrundning
+ 
+Tidkoder
+ 
+Ersättningar
+Stämplingsbara ersättningar
+Frånvaroorsaker
+ 
+Saldon – Definiera saldon
+Saldon – Layoutinställningar Saldon
+ 
+Saldon – Fasta saldojusteringar
+Generella händelseformler
+Platser
+Lön
+Lönekoppling
+ 
+Lönearter
+ 
+Generella löneartsformler
+Systemfasta lönearter
+Lönekörningar
+ 
+Bokföring och skuldhantering
+ 
+Pension och försäkring
+Utbetalning av lön
+Lönestatistik
+Utbetalningsgrupper
+Personalkategorier
+Ackumulatorer
+Ackumulatorer – Flik Allmänt
+Ackumulatorer – Flik Skuld och slutlön
+Lönekoder
+Semesteravtal
+ 
+Semesterlöneformler
+ATK/ATF-avtal
+Personal
+Anställningsformer
+Organisationsträd
+Avgångsorsaker
+HR-blanketter
+HR-blanketter – Flik Allmänt
+HR-blanketter – Flik Avancerat
+Dokumentkategorier
+Anställningsmallar
+Anställdaregistret – Inställningar
+Anställdaregistret – Egna fält
+Import/export
+Importmallar
+Exportmallar
+Schemalagda körningar
+Programlänkar
+Contents
+ 
+Index
+ 
+Favorites
+ 
+Side panel
+ 
+Previous
+ 
+Next
+ 
+Print
+ 
+Email
+ 
+Twitter
+ 
+Facebook
+ 
+Favorites
+ 
+Administration / Inställningar
+Ackumulatorer – Flik Allmänt
+
+Klicka på fliken Allmänt och du får upp följande vy.
+
+Kod
+Ackumulatorns kod/nummer (max 5 tecken).
+
+Namn
+Ackumulatorns benämning (max 50 tecken).
+
+Beskrivning
+Här kan valfri beskrivande text läggas in om så önskas.
+
+Typ
+Här anges aktuell ackumulatortyp. Följande alternativ finns: (Ingen), Bruttolön, Förmån, Skatt, Skattefria ersättningar, Skattefria avdrag.
+
+Observera att fälten Typ och Periodicitet inte är redigerbara om värden finns registrerade på ackumulatorn.
+
+Periodicitet, Redigera periodiciteter
+Olika saldon kan ha olika periodicitet. Till exempel har KU alltid periodiciteten kalenderår, för semester kan den variera (1/4 eller 1/1) men är alltid ett helt år. Kompsaldo är inte periodbundet, och så vidare.
+
+Ibland händer det att man vill kunna summera något för ett kvartal eller halvår. Ett exempel är om du önskar betala ut rörligt semestertillägg per halvår. Ett annat exempel är om företaget har ett bonussystem som baseras på det senaste kvartalets provision.
+
+Med dessa inställningar kan du ange önskad periodicitet för ackumulatorn.
+
+I fältet Periodicitet skriver du in önskat alternativ eller hämtar in det med hjälp av förstoringsglaset. Vill du skapa en ny periodicitet eller granska/ändra inställningar för befintlig periodicitet klickar du på knappen Redigera periodiciteter. Följande fönster visas:
+
+För att granska/ändra inställningar för en befintlig periodicitet, markera denna i listan till vänster. För att skapa en ny periodicitet, klicka på knappen Ny och namnge periodiciteten. I fältet Typ anger du om periodiciteten ska vara av typen periodbunden eller rullande. Vid val av alternativet periodbunden anges önskat datum för nollställning av ackumulatorn i fälten nedanför, tex. 1 april för semesterår eller 1 januari för kalenderår. Observera att dessa inställningar inte är redigerbara om värden finns i ackumulatorer kopplade till vald periodicitet.
+
+Enhet
+Här finns det möjlighet att ange en enhet på ackumulatorn. Detta hjälper till i nästa steg där du ska göra en formel för beräkning av skulden, då det är bra att veta om ackumulatorn innehåller ett belopp eller till exempel antal komptimmar. Inställningarna för detta hittar du under fliken Skuld och slutlön.
+
+Kontrolluppgifter och arbetsgivardeklaration på individnivå
+Här gör du inställningar gällande koppling av ackumulatorer till kontrolluppgift och arbetsgivardeklaration på individnivå (AGI). Du väljer med hjälp av Lägg till vilket fält som ska användas för respektive ackumulator i redovisningen.
+
+I exemplet nedan är det ackumulatorn för skatt som styrs till fält 1 för såväl KU som AGI.
+
+ 

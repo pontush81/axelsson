@@ -1,0 +1,933 @@
+[
+  {
+    "id": 1,
+    "title": "Ackumulatorer – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/#!Nethelp/623.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 384
+  },
+  {
+    "id": 2,
+    "title": "Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/469.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 23
+  },
+  {
+    "id": 3,
+    "title": "Konteringsdimensioner",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/470.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 60
+  },
+  {
+    "id": 4,
+    "title": "Konteringsdimensioner – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/478.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 1093
+  },
+  {
+    "id": 5,
+    "title": "Granskningsnivåer – Tidrapporter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/481.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 105
+  },
+  {
+    "id": 6,
+    "title": "Granskningsnivåer – Frånvaroansökningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/485.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 236
+  },
+  {
+    "id": 7,
+    "title": "Granskningsnivåer – Lönerevision",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/486.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 227
+  },
+  {
+    "id": 8,
+    "title": "Granskningsnivåer – Nyanställningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/487.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 63
+  },
+  {
+    "id": 9,
+    "title": "Nyanställningar – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/488.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 700
+  },
+  {
+    "id": 10,
+    "title": "Nyanställningar – Flik Granskningsvy",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/489.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 139
+  },
+  {
+    "id": 11,
+    "title": "Fakturering",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/490.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 49
+  },
+  {
+    "id": 12,
+    "title": "Externa länkar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/494.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 87
+  },
+  {
+    "id": 13,
+    "title": "Påminnelser",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/495.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 329
+  },
+  {
+    "id": 14,
+    "title": "Instruktionsfilmer",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/496.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 173
+  },
+  {
+    "id": 15,
+    "title": "Översättning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/497.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 92
+  },
+  {
+    "id": 16,
+    "title": "Res",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/498.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 14
+  },
+  {
+    "id": 17,
+    "title": "Reseräkningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/499.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 43
+  },
+  {
+    "id": 18,
+    "title": "Resor – Generellt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/502.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 69
+  },
+  {
+    "id": 19,
+    "title": "Resor – Logi",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/506.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 340
+  },
+  {
+    "id": 20,
+    "title": "Resor – Kost",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/507.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 210
+  },
+  {
+    "id": 21,
+    "title": "Resor – Traktamentsregler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/508.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 245
+  },
+  {
+    "id": 22,
+    "title": "Resor – Utrikestraktamenten",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/512.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 317
+  },
+  {
+    "id": 23,
+    "title": "Resor – Restidsregelverk",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/513.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 81
+  },
+  {
+    "id": 24,
+    "title": "Utlägg och representation – Generellt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/517.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 301
+  },
+  {
+    "id": 25,
+    "title": "Utlägg och representation – Koder",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/518.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 132
+  },
+  {
+    "id": 26,
+    "title": "Utlägg och representation – Kontokort",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/525.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 111
+  },
+  {
+    "id": 27,
+    "title": "Bilresor – Generellt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/529.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 457
+  },
+  {
+    "id": 28,
+    "title": "Bilresor - Tillägg",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/530.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 377
+  },
+  {
+    "id": 29,
+    "title": "Bilresor – Milgränsmallar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/531.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 208
+  },
+  {
+    "id": 30,
+    "title": "Bilresor – Fordonstyper",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/532.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 42
+  },
+  {
+    "id": 31,
+    "title": "Registreringsregler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/535.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 751
+  },
+  {
+    "id": 32,
+    "title": "Tid och Bemanning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/536.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 22
+  },
+  {
+    "id": 33,
+    "title": "Bemanning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/537.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 57
+  },
+  {
+    "id": 34,
+    "title": "Tidrapporter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/543.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 2535
+  },
+  {
+    "id": 35,
+    "title": "Tidgrupper",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/544.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 110
+  },
+  {
+    "id": 36,
+    "title": "Scheman — Dagscheman",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/548.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 1253
+  },
+  {
+    "id": 37,
+    "title": "Scheman — Publika scheman",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/549.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 146
+  },
+  {
+    "id": 38,
+    "title": "Publika scheman – Flik Översikt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/552.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 546
+  },
+  {
+    "id": 39,
+    "title": "Scheman — Avvikelsedagar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/554.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 1081
+  },
+  {
+    "id": 40,
+    "title": "Scheman — Rastregler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/555.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 250
+  },
+  {
+    "id": 41,
+    "title": "Tidregelverk — OB-regelverk",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/556.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 269
+  },
+  {
+    "id": 42,
+    "title": "Tidregelverk — Övertidsregelverk",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/560.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 288
+  },
+  {
+    "id": 43,
+    "title": "Tidregelverk — Beredskapsregelverk",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/564.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 216
+  },
+  {
+    "id": 44,
+    "title": "Tidregelverk — Arbetstidsregler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/568.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 491
+  },
+  {
+    "id": 45,
+    "title": "Tidregelverk — Tidkodsavrundning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/569.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 970
+  },
+  {
+    "id": 46,
+    "title": "Tidkoder",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/571.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 98
+  },
+  {
+    "id": 47,
+    "title": "Ersättningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/576.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 380
+  },
+  {
+    "id": 48,
+    "title": "Stämplingsbara ersättningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/577.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 139
+  },
+  {
+    "id": 49,
+    "title": "Frånvaroorsaker",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/578.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 89
+  },
+  {
+    "id": 50,
+    "title": "Saldon – Definiera saldon",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/582.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 976
+  },
+  {
+    "id": 51,
+    "title": "Saldon – Layoutinställningar Saldon",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/583.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 105
+  },
+  {
+    "id": 52,
+    "title": "Saldon – Fasta saldojusteringar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/589.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 209
+  },
+  {
+    "id": 53,
+    "title": "Generella händelseformler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/590.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 334
+  },
+  {
+    "id": 54,
+    "title": "Platser",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/591.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 197
+  },
+  {
+    "id": 55,
+    "title": "Lön",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/592.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 14
+  },
+  {
+    "id": 56,
+    "title": "Lönekoppling",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/593.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 48
+  },
+  {
+    "id": 57,
+    "title": "Lönearter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/597.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 80
+  },
+  {
+    "id": 58,
+    "title": "Generella löneartsformler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/607.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 96
+  },
+  {
+    "id": 59,
+    "title": "Systemfasta lönearter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/608.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 86
+  },
+  {
+    "id": 60,
+    "title": "Lönekörningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/609.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 26
+  },
+  {
+    "id": 61,
+    "title": "Bokföring och skuldhantering",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/613.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 49
+  },
+  {
+    "id": 62,
+    "title": "Pension och försäkring",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/617.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 653
+  },
+  {
+    "id": 63,
+    "title": "Utbetalning av lön",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/618.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 102
+  },
+  {
+    "id": 64,
+    "title": "Lönestatistik",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/619.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 248
+  },
+  {
+    "id": 65,
+    "title": "Utbetalningsgrupper",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/620.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 410
+  },
+  {
+    "id": 66,
+    "title": "Personalkategorier",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/621.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 397
+  },
+  {
+    "id": 67,
+    "title": "Ackumulatorer",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/622.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 122
+  },
+  {
+    "id": 68,
+    "title": "Ackumulatorer – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/623.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 384
+  },
+  {
+    "id": 69,
+    "title": "Ackumulatorer – Flik Skuld och slutlön",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/624.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 216
+  },
+  {
+    "id": 70,
+    "title": "Lönekoder",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/625.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 203
+  },
+  {
+    "id": 71,
+    "title": "Semesteravtal",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/626.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 45
+  },
+  {
+    "id": 72,
+    "title": "Semesterlöneformler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/631.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 114
+  },
+  {
+    "id": 73,
+    "title": "ATK/ATF-avtal",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/632.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 167
+  },
+  {
+    "id": 74,
+    "title": "Personal",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/633.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 14
+  },
+  {
+    "id": 75,
+    "title": "Anställningsformer",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/634.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 214
+  },
+  {
+    "id": 76,
+    "title": "Organisationsträd",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/635.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 313
+  },
+  {
+    "id": 77,
+    "title": "Avgångsorsaker",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/636.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 146
+  },
+  {
+    "id": 78,
+    "title": "HR-blanketter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/637.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 100
+  },
+  {
+    "id": 79,
+    "title": "HR-blanketter – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/638.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 845
+  },
+  {
+    "id": 80,
+    "title": "HR-blanketter – Flik Avancerat",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/639.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 68
+  },
+  {
+    "id": 81,
+    "title": "Dokumentkategorier",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/640.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 168
+  },
+  {
+    "id": 82,
+    "title": "Anställningsmallar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/641.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 412
+  },
+  {
+    "id": 83,
+    "title": "Anställdaregistret – Inställningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/642.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 64
+  },
+  {
+    "id": 84,
+    "title": "Anställdaregistret – Egna fält",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/643.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 1358
+  },
+  {
+    "id": 85,
+    "title": "Import/export",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/644.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 16
+  },
+  {
+    "id": 86,
+    "title": "HR-blanketter – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/645.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 845
+  },
+  {
+    "id": 87,
+    "title": "Exportmallar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/646.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 257
+  },
+  {
+    "id": 88,
+    "title": "Schemalagda körningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/647.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 410
+  },
+  {
+    "id": 89,
+    "title": "Programlänkar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/648.htm",
+    "breadcrumbs": "Administration / Inställningar",
+    "wordCount": 528
+  },
+  {
+    "id": 90,
+    "title": "Ackumulatorvärden",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/149.htm",
+    "breadcrumbs": "Lön",
+    "wordCount": 178
+  },
+  {
+    "id": 91,
+    "title": "Administration",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/290.htm",
+    "breadcrumbs": "",
+    "wordCount": 22
+  },
+  {
+    "id": 92,
+    "title": "Åldersfördelning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/44.htm",
+    "breadcrumbs": "Hem / Personalöversikt",
+    "wordCount": 9
+  },
+  {
+    "id": 93,
+    "title": "Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/291.htm",
+    "breadcrumbs": "Administration",
+    "wordCount": 46
+  },
+  {
+    "id": 94,
+    "title": "Analys",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/201.htm",
+    "breadcrumbs": "Personal / Lönekartläggning",
+    "wordCount": 1002
+  },
+  {
+    "id": 95,
+    "title": "Anställda",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/151.htm",
+    "breadcrumbs": "Personal",
+    "wordCount": 2514
+  },
+  {
+    "id": 96,
+    "title": "Anställda – Flik Anställning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/153.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 663
+  },
+  {
+    "id": 97,
+    "title": "Anställning – Flik Anställning – Semesterkvoter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/156.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 298
+  },
+  {
+    "id": 98,
+    "title": "Anställda – Flik Anställning – Sysselsättningsgrader",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/154.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 192
+  },
+  {
+    "id": 99,
+    "title": "Anställda – Flik ATK/ATF",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/164.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 175
+  },
+  {
+    "id": 100,
+    "title": "Anställda – Flik Bemanning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/170.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 346
+  },
+  {
+    "id": 101,
+    "title": "Anställda – Flik Medarbetarsamtal",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/172.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 1775
+  },
+  {
+    "id": 102,
+    "title": "Anställda – Flik Kompetenser",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/171.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 1004
+  },
+  {
+    "id": 103,
+    "title": "Anställda – Flik Kontering",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/174.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 346
+  },
+  {
+    "id": 104,
+    "title": "Anställda – Flik LAS",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/190.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 137
+  },
+  {
+    "id": 105,
+    "title": "Anställda – Flik Licens",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/189.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 62
+  },
+  {
+    "id": 106,
+    "title": "Anställda – Flik Skatt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/161.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 684
+  },
+  {
+    "id": 107,
+    "title": "Anställda – Flik Lönestatistik",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/187.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 282
+  },
+  {
+    "id": 108,
+    "title": "Anställda – Flik Kontering",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/173.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 346
+  },
+  {
+    "id": 109,
+    "title": "Anställda – Flik Övrigt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/188.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 265
+  },
+  {
+    "id": 110,
+    "title": "Anställda – Flik Pension & försäkring",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/176.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 36
+  },
+  {
+    "id": 111,
+    "title": "Anställda – Flik Personuppgifter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/152.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 459
+  },
+  {
+    "id": 112,
+    "title": "Anställda – Flik Resa",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/166.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 33
+  },
+  {
+    "id": 113,
+    "title": "Anställda – Flik Resa – Flik Bilar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/168.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 362
+  },
+  {
+    "id": 114,
+    "title": "Anställda – Flik Resa – Flik Kontokort",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/169.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 136
+  },
+  {
+    "id": 115,
+    "title": "Anställda – Flik Resa – Flik Bilar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/167.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 362
+  },
+  {
+    "id": 116,
+    "title": "Anställda – Flik Semester",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/163.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 615
+  },
+  {
+    "id": 117,
+    "title": "Anställda – Flik Semester",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/162.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 615
+  },
+  {
+    "id": 118,
+    "title": "Anställda – Flik Tid",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/165.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 2473
+  },
+  {
+    "id": 119,
+    "title": "Anställning – Flik Anställning – Avvikande inställningar för arbetstidsregler",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/160.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 67
+  },
+  {
+    "id": 120,
+    "title": "Anställning – Flik Anställning – Beredskapsscheman",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/159.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 84
+  },
+  {
+    "id": 121,
+    "title": "Anställning – Flik Anställning – Deltidsfrånvaro",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/158.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 15
+  },
+  {
+    "id": 122,
+    "title": "Anställda – Flik Anställning – Personliga scheman",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/155.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 1210
+  },
+  {
+    "id": 123,
+    "title": "Anställning – Flik Anställning – Semesterkvoter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/157.htm",
+    "breadcrumbs": "Personal / Anställda",
+    "wordCount": 298
+  },
+  {
+    "id": 124,
+    "title": "Anställningsavtal",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/254.htm",
+    "breadcrumbs": "Rapporter / Rapportbeskrivningar Personal",
+    "wordCount": 303
+  },
+  {
+    "id": 125,
+    "title": "Anställningsform",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/368.htm",
+    "breadcrumbs": "Administration / Systemregister / Dashboard – Paneler – Typer",
+    "wordCount": 46
+  },
+  {
+    "id": 126,
+    "title": "Anställningsurval",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/380.htm",
+    "breadcrumbs": "Administration / Systemregister / Dashboard – Paneler – Gemensamt",
+    "wordCount": 31
+  },
+  {
+    "id": 127,
+    "title": "Antal anställda",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/43.htm",
+    "breadcrumbs": "Hem / Personalöversikt",
+    "wordCount": 16
+  },
+  {
+    "id": 128,
+    "title": "Antal heltidstjänster (FTE)",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/370.htm",
+    "breadcrumbs": "Administration / Systemregister / Dashboard – Paneler – Typer",
+    "wordCount": 180
+  },
+  {
+    "id": 129,
+    "title": "Användare",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/327.htm",
+    "breadcrumbs": "Administration / Användare/Behörigheter",
+    "wordCount": 94
+  },
+  {
+    "id": 130,
+    "title": "Användare – Flik Allmänt",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/328.htm",
+    "breadcrumbs": "Administration / Användare/Behörigheter / Användare",
+    "wordCount": 701
+  },
+  {
+    "id": 131,
+    "title": "Användare – Flik Behörigheter",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/329.htm",
+    "breadcrumbs": "Administration / Användare/Behörigheter / Användare",
+    "wordCount": 686
+  },
+  {
+    "id": 132,
+    "title": "Användare – Flik Konteringsgranskning",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/330.htm",
+    "breadcrumbs": "Administration / Användare/Behörigheter / Användare",
+    "wordCount": 145
+  },
+  {
+    "id": 133,
+    "title": "Inställningar",
+    "url": "https://nethelpv2.flexhosting.se/SVE/index.html#!Nethelp/468.htm",
+    "breadcrumbs": "Administration",
+    "wordCount": 37
+  }
+]
